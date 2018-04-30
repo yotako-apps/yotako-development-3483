@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <LinearLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+        <android.support.constraint.ConstraintLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_0_guidelines_top77b9d0ec-32e3-4bc4-a9e9-e3252ec923b4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.0242" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_0_guidelines_start77b9d0ec-32e3-4bc4-a9e9-e3252ec923b4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0095" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_0_guidelines_bottom77b9d0ec-32e3-4bc4-a9e9-e3252ec923b4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.08696" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_0_guidelines_end77b9d0ec-32e3-4bc4-a9e9-e3252ec923b4"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99997" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_unsupported_0_77b9d0ec_32e3_4bc4_a9e9_e3252ec923b4"
+android:background="#ff0000"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_unsupported_0_guidelines_start77b9d0ec-32e3-4bc4-a9e9-e3252ec923b4"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_unsupported_0_guidelines_top77b9d0ec-32e3-4bc4-a9e9-e3252ec923b4"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_unsupported_0_guidelines_end77b9d0ec-32e3-4bc4-a9e9-e3252ec923b4"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_unsupported_0_guidelines_bottom77b9d0ec-32e3-4bc4-a9e9-e3252ec923b4">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_1_guidelines_top1bbdde62-dc6b-437b-88cd-7af1a4026974"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1184" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_1_guidelines_start1bbdde62-dc6b-437b-88cd-7af1a4026974"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.4888" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_1_guidelines_bottom1bbdde62-dc6b-437b-88cd-7af1a4026974"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.15691" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_1_guidelines_end1bbdde62-dc6b-437b-88cd-7af1a4026974"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9713300000000001" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_unsupported_1_1bbdde62_dc6b_437b_88cd_7af1a4026974"
+android:background="#ff0000"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_unsupported_1_guidelines_start1bbdde62-dc6b-437b-88cd-7af1a4026974"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_unsupported_1_guidelines_top1bbdde62-dc6b-437b-88cd-7af1a4026974"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_unsupported_1_guidelines_end1bbdde62-dc6b-437b-88cd-7af1a4026974"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_unsupported_1_guidelines_bottom1bbdde62-dc6b-437b-88cd-7af1a4026974">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_2_guidelines_topa308578c-0fa4-4fd7-9d60-53cb2e579813"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.16260000000000002" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_2_guidelines_starta308578c-0fa4-4fd7-9d60-53cb2e579813"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.4888" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_2_guidelines_bottoma308578c-0fa4-4fd7-9d60-53cb2e579813"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.20111" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_2_guidelines_enda308578c-0fa4-4fd7-9d60-53cb2e579813"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9713300000000001" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_unsupported_2_a308578c_0fa4_4fd7_9d60_53cb2e579813"
+android:background="#ff0000"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_unsupported_2_guidelines_starta308578c-0fa4-4fd7-9d60-53cb2e579813"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_unsupported_2_guidelines_topa308578c-0fa4-4fd7-9d60-53cb2e579813"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_unsupported_2_guidelines_enda308578c-0fa4-4fd7-9d60-53cb2e579813"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_unsupported_2_guidelines_bottoma308578c-0fa4-4fd7-9d60-53cb2e579813">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_guidelines_topbb025864-4250-410a-a768-f583f0086912"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9229" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_guidelines_startbb025864-4250-410a-a768-f583f0086912"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3968" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_guidelines_bottombb025864-4250-410a-a768-f583f0086912"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9614100000000001" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_guidelines_endbb025864-4250-410a-a768-f583f0086912"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9714" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_row_8_bb025864_4250_410a_a768_f583f0086912"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_row_8_guidelines_startbb025864-4250-410a-a768-f583f0086912"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_row_8_guidelines_topbb025864-4250-410a-a768-f583f0086912"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_row_8_guidelines_endbb025864-4250-410a-a768-f583f0086912"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_row_8_guidelines_bottombb025864-4250-410a-a768-f583f0086912">
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_text_1_guidelines_top5a8cc0dc-9b6d-4c14-9c1a-8c034c1a8f93"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.1481" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_text_1_guidelines_start5a8cc0dc-9b6d-4c14-9c1a-8c034c1a8f93"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_text_1_guidelines_bottom5a8cc0dc-9b6d-4c14-9c1a-8c034c1a8f93"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1.03698" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_text_1_guidelines_end5a8cc0dc-9b6d-4c14-9c1a-8c034c1a8f93"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.51933" />
+                <TextView
+android:id="@+id/logIn_copy_9_row_8_text_1"
+android:fontFamily="Balsamiq Sans"
+
+ android:text="Items" 
+android:textColor="#2b78e4"
+android:textSize="14.4dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_row_8_text_1_guidelines_start5a8cc0dc-9b6d-4c14-9c1a-8c034c1a8f93"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_row_8_text_1_guidelines_top5a8cc0dc-9b6d-4c14-9c1a-8c034c1a8f93"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_row_8_text_1_guidelines_end5a8cc0dc-9b6d-4c14-9c1a-8c034c1a8f93"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_row_8_text_1_guidelines_bottom5a8cc0dc-9b6d-4c14-9c1a-8c034c1a8f93" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_textfield_0_guidelines_top260cae90-4a3b-48ca-9683-ce23a90c10d5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_textfield_0_guidelines_start260cae90-4a3b-48ca-9683-ce23a90c10d5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6132" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_textfield_0_guidelines_bottom260cae90-4a3b-48ca-9683-ce23a90c10d5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_8_textfield_0_guidelines_end260cae90-4a3b-48ca-9683-ce23a90c10d5"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99994" />
+                <EditText
+android:id="@+id/logIn_copy_9_row_8_textfield_0"
+android:inputType="text"
+android:background="#ffffff"
+android:layout_width="83dp"
+android:layout_height="32dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_row_8_textfield_0_guidelines_start260cae90-4a3b-48ca-9683-ce23a90c10d5"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_row_8_textfield_0_guidelines_top260cae90-4a3b-48ca-9683-ce23a90c10d5"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_row_8_textfield_0_guidelines_end260cae90-4a3b-48ca-9683-ce23a90c10d5"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_row_8_textfield_0_guidelines_bottom260cae90-4a3b-48ca-9683-ce23a90c10d5" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_guidelines_top5252afdd-1a87-4a38-a6cb-d13423a40cfd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9571999999999999" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_guidelines_start5252afdd-1a87-4a38-a6cb-d13423a40cfd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.3968" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_guidelines_bottom5252afdd-1a87-4a38-a6cb-d13423a40cfd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.99571" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_guidelines_end5252afdd-1a87-4a38-a6cb-d13423a40cfd"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.9714" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_row_9_5252afdd_1a87_4a38_a6cb_d13423a40cfd"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_row_9_guidelines_start5252afdd-1a87-4a38-a6cb-d13423a40cfd"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_row_9_guidelines_top5252afdd-1a87-4a38-a6cb-d13423a40cfd"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_row_9_guidelines_end5252afdd-1a87-4a38-a6cb-d13423a40cfd"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_row_9_guidelines_bottom5252afdd-1a87-4a38-a6cb-d13423a40cfd">
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_text_0_guidelines_topf1a5f952-4d25-436f-a942-aa5505db2ea3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.18510000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_text_0_guidelines_startf1a5f952-4d25-436f-a942-aa5505db2ea3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_text_0_guidelines_bottomf1a5f952-4d25-436f-a942-aa5505db2ea3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1.0739800000000002" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_text_0_guidelines_endf1a5f952-4d25-436f-a942-aa5505db2ea3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6022" />
+                <TextView
+android:id="@+id/logIn_copy_9_row_9_text_0"
+android:fontFamily="Balsamiq Sans"
+
+ android:text="Total Recarga" 
+android:textColor="#2b78e4"
+android:textSize="14.4dp"
+android:gravity="center_horizontal|center_vertical"
+android:layout_width="0dp"
+android:layout_height="wrap_content"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_row_9_text_0_guidelines_startf1a5f952-4d25-436f-a942-aa5505db2ea3"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_row_9_text_0_guidelines_topf1a5f952-4d25-436f-a942-aa5505db2ea3"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_row_9_text_0_guidelines_endf1a5f952-4d25-436f-a942-aa5505db2ea3"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_row_9_text_0_guidelines_bottomf1a5f952-4d25-436f-a942-aa5505db2ea3" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_textfield_1_guidelines_tope7497a4c-0be9-4b11-874a-58bde71c1beb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_textfield_1_guidelines_starte7497a4c-0be9-4b11-874a-58bde71c1beb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.6132" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_textfield_1_guidelines_bottome7497a4c-0be9-4b11-874a-58bde71c1beb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_9_textfield_1_guidelines_ende7497a4c-0be9-4b11-874a-58bde71c1beb"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99994" />
+                <EditText
+android:id="@+id/logIn_copy_9_row_9_textfield_1"
+android:inputType="text"
+android:background="#ffffff"
+android:layout_width="83dp"
+android:layout_height="32dp"
+android:layout_weight="0"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_row_9_textfield_1_guidelines_starte7497a4c-0be9-4b11-874a-58bde71c1beb"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_row_9_textfield_1_guidelines_tope7497a4c-0be9-4b11-874a-58bde71c1beb"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_row_9_textfield_1_guidelines_ende7497a4c-0be9-4b11-874a-58bde71c1beb"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_row_9_textfield_1_guidelines_bottome7497a4c-0be9-4b11-874a-58bde71c1beb" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_4_guidelines_topb213f673-4f6f-47fc-941f-9ade842c37b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.261" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_4_guidelines_startb213f673-4f6f-47fc-941f-9ade842c37b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0095" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_4_guidelines_bottomb213f673-4f6f-47fc-941f-9ade842c37b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.42790000000000006" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_4_guidelines_endb213f673-4f6f-47fc-941f-9ade842c37b2"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99997" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_unsupported_4_b213f673_4f6f_47fc_941f_9ade842c37b2"
+android:background="#ff0000"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_unsupported_4_guidelines_startb213f673-4f6f-47fc-941f-9ade842c37b2"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_unsupported_4_guidelines_topb213f673-4f6f-47fc-941f-9ade842c37b2"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_unsupported_4_guidelines_endb213f673-4f6f-47fc-941f-9ade842c37b2"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_unsupported_4_guidelines_bottomb213f673-4f6f-47fc-941f-9ade842c37b2">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_5_guidelines_top2c90114f-a937-4aa9-9a7a-efdcf7812f96"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.4279" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_5_guidelines_start2c90114f-a937-4aa9-9a7a-efdcf7812f96"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0095" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_5_guidelines_bottom2c90114f-a937-4aa9-9a7a-efdcf7812f96"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5948" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_5_guidelines_end2c90114f-a937-4aa9-9a7a-efdcf7812f96"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99997" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_unsupported_5_2c90114f_a937_4aa9_9a7a_efdcf7812f96"
+android:background="#ff0000"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_unsupported_5_guidelines_start2c90114f-a937-4aa9-9a7a-efdcf7812f96"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_unsupported_5_guidelines_top2c90114f-a937-4aa9-9a7a-efdcf7812f96"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_unsupported_5_guidelines_end2c90114f-a937-4aa9-9a7a-efdcf7812f96"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_unsupported_5_guidelines_bottom2c90114f-a937-4aa9-9a7a-efdcf7812f96">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_6_guidelines_topdc50de19-2c5b-4368-a16b-c7623c3722c8"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.5948" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_6_guidelines_startdc50de19-2c5b-4368-a16b-c7623c3722c8"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0095" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_6_guidelines_bottomdc50de19-2c5b-4368-a16b-c7623c3722c8"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7617" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_6_guidelines_enddc50de19-2c5b-4368-a16b-c7623c3722c8"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99997" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_unsupported_6_dc50de19_2c5b_4368_a16b_c7623c3722c8"
+android:background="#ff0000"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_unsupported_6_guidelines_startdc50de19-2c5b-4368-a16b-c7623c3722c8"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_unsupported_6_guidelines_topdc50de19-2c5b-4368-a16b-c7623c3722c8"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_unsupported_6_guidelines_enddc50de19-2c5b-4368-a16b-c7623c3722c8"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_unsupported_6_guidelines_bottomdc50de19-2c5b-4368-a16b-c7623c3722c8">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_7_guidelines_top81a3b5be-9e93-4788-8244-962f35a698de"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7617" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_7_guidelines_start81a3b5be-9e93-4788-8244-962f35a698de"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0095" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_7_guidelines_bottom81a3b5be-9e93-4788-8244-962f35a698de"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.9286" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_unsupported_7_guidelines_end81a3b5be-9e93-4788-8244-962f35a698de"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99997" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_unsupported_7_81a3b5be_9e93_4788_8244_962f35a698de"
+android:background="#ff0000"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_unsupported_7_guidelines_start81a3b5be-9e93-4788-8244-962f35a698de"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_unsupported_7_guidelines_top81a3b5be-9e93-4788-8244-962f35a698de"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_unsupported_7_guidelines_end81a3b5be-9e93-4788-8244-962f35a698de"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_unsupported_7_guidelines_bottom81a3b5be-9e93-4788-8244-962f35a698de">
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+            </android.support.constraint.ConstraintLayout>
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_guidelines_top0eb63e9c-07b4-4665-8dd2-1a7f888aae88"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.087" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_guidelines_start0eb63e9c-07b4-4665-8dd2-1a7f888aae88"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.0095" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_guidelines_bottom0eb63e9c-07b4-4665-8dd2-1a7f888aae88"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.28814" />
+            <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_guidelines_end0eb63e9c-07b4-4665-8dd2-1a7f888aae88"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.98092" />
+            <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_row_1_0eb63e9c_07b4_4665_8dd2_1a7f888aae88"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_row_1_guidelines_start0eb63e9c-07b4-4665-8dd2-1a7f888aae88"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_row_1_guidelines_top0eb63e9c-07b4-4665-8dd2-1a7f888aae88"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_row_1_guidelines_end0eb63e9c-07b4-4665-8dd2-1a7f888aae88"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_row_1_guidelines_bottom0eb63e9c-07b4-4665-8dd2-1a7f888aae88">
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_unsupported_3_guidelines_topedecac58-12ed-4643-bc30-bf98993b02d3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.617" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_unsupported_3_guidelines_startedecac58-12ed-4643-bc30-bf98993b02d3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.7058" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_unsupported_3_guidelines_bottomedecac58-12ed-4643-bc30-bf98993b02d3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7943000000000001" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_unsupported_3_guidelines_endedecac58-12ed-4643-bc30-bf98993b02d3"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.99991" />
+                <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_row_1_unsupported_3_edecac58_12ed_4643_bc30_bf98993b02d3"
+android:background="#ff0000"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_row_1_unsupported_3_guidelines_startedecac58-12ed-4643-bc30-bf98993b02d3"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_row_1_unsupported_3_guidelines_topedecac58-12ed-4643-bc30-bf98993b02d3"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_row_1_unsupported_3_guidelines_endedecac58-12ed-4643-bc30-bf98993b02d3"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_row_1_unsupported_3_guidelines_bottomedecac58-12ed-4643-bc30-bf98993b02d3">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                    <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+                </android.support.constraint.ConstraintLayout>
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_unsupported_8_guidelines_topdf9ccb5b-5c2a-4abf-9b6e-fa103560f4c7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_unsupported_8_guidelines_startdf9ccb5b-5c2a-4abf-9b6e-fa103560f4c7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_unsupported_8_guidelines_bottomdf9ccb5b-5c2a-4abf-9b6e-fa103560f4c7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="1" />
+                <android.support.constraint.Guideline
+android:id="@+id/logIn_copy_9_row_1_unsupported_8_guidelines_enddf9ccb5b-5c2a-4abf-9b6e-fa103560f4c7"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.71241" />
+                <android.support.constraint.ConstraintLayout
+android:id="@+id/logIn_copy_9_row_1_unsupported_8_df9ccb5b_5c2a_4abf_9b6e_fa103560f4c7"
+android:background="#ff0000"
+android:layout_width="0dp"
+android:layout_height="0dp"
+android:layout_marginTop="0dp"
+android:layout_marginBottom="0dp"
+android:layout_marginEnd="0dp"
+android:layout_marginStart="0dp"
+app:layout_constraintStart_toStartOf="@+id/logIn_copy_9_row_1_unsupported_8_guidelines_startdf9ccb5b-5c2a-4abf-9b6e-fa103560f4c7"
+app:layout_constraintTop_toTopOf="@+id/logIn_copy_9_row_1_unsupported_8_guidelines_topdf9ccb5b-5c2a-4abf-9b6e-fa103560f4c7"
+app:layout_constraintEnd_toEndOf="@+id/logIn_copy_9_row_1_unsupported_8_guidelines_enddf9ccb5b-5c2a-4abf-9b6e-fa103560f4c7"
+app:layout_constraintBottom_toBottomOf="@+id/logIn_copy_9_row_1_unsupported_8_guidelines_bottomdf9ccb5b-5c2a-4abf-9b6e-fa103560f4c7">
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.6" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.2676" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="horizontal"
+app:layout_constraintGuide_percent="0.7040000000000001" />
+                    <android.support.constraint.Guideline
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+app:layout_constraintGuide_percent="0.75749" />
+                    <TextView
+android:id="@+id/artwork_profile_container_0_row_2_container_9_text_6"
+android:layout_width="0dp"
+android:layout_height="12dp"
+android:layout_weight="0"
+android:fontFamily="roboto"
+android:gravity="left|center_vertical"
+android:text="UNSUPPORTED"
+android:textColor="#ffff00"
+android:textSize="8.8dp"
+android:textStyle="normal"
+app:layout_constraintBottom_toBottomOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_bottom2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintEnd_toEndOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_end2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintStart_toStartOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_start2a1ea21b-257f-48b1-aa11-9424704e36ee"
+app:layout_constraintTop_toTopOf="@+id/artwork_profile_container_0_row_2_container_9_text_6_guidelines_top2a1ea21b-257f-48b1-aa11-9424704e36ee" />
+                </android.support.constraint.ConstraintLayout>
+            </android.support.constraint.ConstraintLayout>
+        </android.support.constraint.ConstraintLayout>
+    </LinearLayout>
